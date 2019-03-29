@@ -26,5 +26,6 @@ If you discover a security vulnerability within Laravel, please send an e-mail t
 
 The Laravel framework is open-sourced software licensed under the [MIT license](http://opensource.org/licenses/MIT).
 
-untuk test laravel beginer
+#untuk test laravel beginer
+
 Test = localhost:8000/about
